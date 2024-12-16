@@ -1,5 +1,5 @@
 ## Oiii meu nome é Andrey
-### sou programador full stack e no tempo livre crio bots para o discord
+### sou programador full stack 
 ___ 
 
 <div align="center">
